@@ -28,6 +28,7 @@ article {
     margin: 3%;
 }
 
+
 article:nth-of-type(1) {
     background: linear-gradient(50deg, rgb(5, 134, 238)50%, rgba(174, 167, 167) 50%)
 }
